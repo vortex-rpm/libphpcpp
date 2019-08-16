@@ -3,7 +3,7 @@
 ARTIFACTS="_ARTIFACTS"
 NAME="libphpcpp"
 VERSION="2.2.0"
-ITERATION="1.vortex.el7.centos"
+ITERATION="2.vortex.el7.centos"
 DOCKER_REGISTRY="nonexistant.vortex-rpm.org"
 tag="${DOCKER_REGISTRY}/build-${NAME}:latest"
 
